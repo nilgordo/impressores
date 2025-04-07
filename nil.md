@@ -21,3 +21,18 @@ Anem a Seguretat
 Li donem els permissos que considerem a els usuaris i li donem a Aplicar i Aceptar
 
 ![image](https://github.com/user-attachments/assets/f93f9061-694e-4c7d-b5cd-ecacfae48266)
+
+
+
+# Linux to WIndows
+
+![image](https://github.com/user-attachments/assets/0873de7a-4c3f-457c-8c4b-7b25fb33c911)
+
+![image](https://github.com/user-attachments/assets/0d561a2c-39d3-4453-82ed-a8783a99e297)
+
+![image](https://github.com/user-attachments/assets/4fda3534-c3fc-4382-9e98-1db338b1a997)
+
+![image](https://github.com/user-attachments/assets/4d4feb78-4960-4250-b6d1-48ab642fa75a)
+
+![image](https://github.com/user-attachments/assets/a68d19e3-36b1-47cc-9811-995f8f10728b)
+
