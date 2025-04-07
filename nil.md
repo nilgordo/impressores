@@ -61,8 +61,6 @@ Després de canviar les opcions, afeixirem la impresora, en aquest cas, creare u
 
 ![image](https://github.com/user-attachments/assets/9094f854-9a91-4acc-ba93-eb5642973088)
 
-![image](https://github.com/user-attachments/assets/42c38f32-2002-4bc5-aeed-bc0ba55d4e12)
-
 ![image](https://github.com/user-attachments/assets/0873de7a-4c3f-457c-8c4b-7b25fb33c911)
 
 ![image](https://github.com/user-attachments/assets/0d561a2c-39d3-4453-82ed-a8783a99e297)
@@ -96,4 +94,7 @@ Anem a Seguretat
 Li donem els permissos que considerem a els usuaris i li donem a Aplicar i Aceptar
 
 ![image](https://github.com/user-attachments/assets/f93f9061-694e-4c7d-b5cd-ecacfae48266)
+
+![image](https://github.com/user-attachments/assets/42c38f32-2002-4bc5-aeed-bc0ba55d4e12)
+
 
