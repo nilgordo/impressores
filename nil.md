@@ -2,6 +2,7 @@
 
 # Índex
 *[Activitat 1 - Compartir una impressora de Linux a Windows](#1)
+
 *[Activitat 2 - Compartir una impressora de Windows a Linux](#2)
 
 
@@ -128,5 +129,15 @@ Només hauria falta canviar la IP del exemple per la del Windows teu i el nom de
 I ahi la tens! Si no et surt pot ser perque no esta compartida correctament o Samba Client no funciona correctament o no esta instalat (a mi no em surtia perque ja la tenia afegida)
 
 ![image](https://github.com/user-attachments/assets/42c38f32-2002-4bc5-aeed-bc0ba55d4e12)
+
+**I aqui una prova de que la impressora funciona perfectament**
+
+Aquí li donem la ordre:
+
+![image](https://github.com/user-attachments/assets/51967dee-0145-47a9-b789-d0ed099d41e8)
+
+I ens imprimeix correctament!
+
+![image](https://github.com/user-attachments/assets/abcdea58-8a72-4c23-8f3a-4e63445ac57e)
 
 
