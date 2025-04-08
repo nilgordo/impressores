@@ -135,11 +135,11 @@ I ahi la tens! Si no et surt pot ser perque no esta compartida correctament o Sa
 
 ### Prova d'impressio desde Linux a impressora de Windows
 
-Aquí li donem la ordre:
+- Aquí li donem la ordre:
 
 ![image](https://github.com/user-attachments/assets/51967dee-0145-47a9-b789-d0ed099d41e8)
 
-I ens imprimeix correctament!
+- I ens imprimeix correctament!
 
 ![image](https://github.com/user-attachments/assets/abcdea58-8a72-4c23-8f3a-4e63445ac57e)
 
