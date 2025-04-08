@@ -95,6 +95,18 @@ Li donem els permissos que considerem a els usuaris i li donem a Aplicar i Acept
 
 ![image](https://github.com/user-attachments/assets/f93f9061-694e-4c7d-b5cd-ecacfae48266)
 
+Com veure una impresora compartida desde Windows a Linux
+
+El unic requeriment per fer aixo es tenir Samba Client, teoricament instalat abans si has sigut el tutorial.
+
+Al tindre Samba Client, i tenir una impresora compartida desde Windows a una mateixa xarxa, Linux hauria de poder veure l'impresora, sino... Pots provar a buscarla manualment. com a la imatge:
+
+![image](https://github.com/user-attachments/assets/12d32310-ee7e-4ccf-99a7-13f3fec2a5fb)
+
+Només hauria falta canviar la IP del exemple per la del Windows teu i el nom de l'impresora de exemple "PDFCreator" per el de la teva impresora.
+
+I ahi la tens! Si no et surt pot ser perque no esta compartida correctament o Samba Client no funciona correctament o no esta instalat (a mi no em surtia perque ja la tenia afegida)
+
 ![image](https://github.com/user-attachments/assets/42c38f32-2002-4bc5-aeed-bc0ba55d4e12)
 
 
