@@ -1,5 +1,8 @@
 # Projecte compartició d'impressores
 
+![image](https://github.com/user-attachments/assets/ee68fd72-7aae-4247-a373-7183fb9449da)
+
+
 # Índex
 * [Activitat 1 - Compartir una impressora de Linux a Windows](#1)
 
