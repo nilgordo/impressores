@@ -61,6 +61,8 @@ Després de canviar les opcions, afeixirem la impresora, en aquest cas, creare u
 
 ![image](https://github.com/user-attachments/assets/9094f854-9a91-4acc-ba93-eb5642973088)
 
+Connectar la impressora a Windows
+
 ![image](https://github.com/user-attachments/assets/0873de7a-4c3f-457c-8c4b-7b25fb33c911)
 
 ![image](https://github.com/user-attachments/assets/0d561a2c-39d3-4453-82ed-a8783a99e297)
