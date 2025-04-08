@@ -19,15 +19,15 @@ Per a compartir una impresora de Linux a Windows, cal fer lo següent:
 
 Aquest servei ens permetrà administrar les impresores
 
-Instalar CUPS:
+- Instalar CUPS:
 
 ![image](https://github.com/user-attachments/assets/f3230ca4-6054-4a30-ae51-bb761ad16444)
 
-Instalar drivers:
+- Instalar drivers:
 
 ![image](https://github.com/user-attachments/assets/12bc4e35-91d2-4cfc-b698-7736ab566f3f)
 
-Instalar impresora virtual:
+- Instalar impresora virtual:
 
 ![image](https://github.com/user-attachments/assets/a4baaafd-87f1-4b5a-a1a9-b3bb9cea711d)
 
@@ -35,31 +35,31 @@ Instalar impresora virtual:
 
 Aquest servei ens permetrà compartir les impresores i en el cas de Samba Client, poder utilitzar la impresora compartida desde Windows
 
-Instalar Samba:
+- Instalar Samba:
 
 ![image](https://github.com/user-attachments/assets/c7dd36db-6318-4627-9b3e-214085170a81)
 
-Instalar Samba Client:
+- Instalar Samba Client:
 
 ![image](https://github.com/user-attachments/assets/e47b56ae-d4a4-4991-b1ab-4bf22d85e73d)
 
 ### **3. Configuració de CUPS i creació de una impresora virtual**
 
-Ara podem accedir a CUPS, per a accedir, tindrem que obrir un navegador i posar lo següent
+- Ara podem accedir a CUPS, per a accedir, tindrem que obrir un navegador i posar lo següent
 
 ```
 localhost:631
 ```
 
-Al introduirlo, ens portarà a aquesta pagina, i tindrem la interficie grafica de CUPS
+- Al introduirlo, ens portarà a aquesta pagina, i tindrem la interficie grafica de CUPS
 
 ![image](https://github.com/user-attachments/assets/edd71f96-37ec-447f-b1e2-7847333c5751)
 
-Per a administar les impresores, anirem a la secció "Administration", aquí tindrem que activar les seguents caselles, les quals surten a la dreta (Despres d'activarles, assegurat de donarli a "Change Settings", sino no servira de res)
+- Per a administar les impresores, anirem a la secció "Administration", aquí tindrem que activar les seguents caselles, les quals surten a la dreta (Despres d'activarles, assegurat de donarli a "Change Settings", sino no servira de res)
 
 ![image](https://github.com/user-attachments/assets/4e85ebc0-69a8-4138-9542-dab473af7550)
 
-Després de canviar les opcions, afeixirem la impresora, en aquest cas, creare una virtual ja que no tinc una a mà, per això, li donarem a l'opció "Add Printer"
+- Després de canviar les opcions, afeixirem la impresora, en aquest cas, creare una virtual ja que no tinc una a mà, per això, li donarem a l'opció "Add Printer"
 
 ![image](https://github.com/user-attachments/assets/207f1250-6d47-46fb-89b9-626e4ee80e57)
 
@@ -73,7 +73,7 @@ Després de canviar les opcions, afeixirem la impresora, en aquest cas, creare u
 
 ![image](https://github.com/user-attachments/assets/9094f854-9a91-4acc-ba93-eb5642973088)
 
-Connectar la impressora a Windows
+### Connectar la impressora a Windows
 
 ![image](https://github.com/user-attachments/assets/0873de7a-4c3f-457c-8c4b-7b25fb33c911)
 
@@ -85,7 +85,7 @@ Connectar la impressora a Windows
 
 ![image](https://github.com/user-attachments/assets/a68d19e3-36b1-47cc-9811-995f8f10728b)
 
-Prova d'impressio desde Windows a impressora de Linux
+### Prova d'impressio desde Windows a impressora de Linux
 ![image](https://github.com/user-attachments/assets/d4f2e860-819b-4671-9be6-0050c8738da2)
 
 ![image](https://github.com/user-attachments/assets/1403f3d3-db57-4c73-ae1c-d8ffd10b5618)
@@ -99,29 +99,29 @@ Prova d'impressio desde Windows a impressora de Linux
 
 ![image](https://github.com/user-attachments/assets/7a42e8ff-31e5-45ea-aef7-c8185fd57e3b)
 
-Anem a Administracion de impressoras i fem clic dret a la nostre impressora i a propietats
+- Anem a Administracion de impressoras i fem clic dret a la nostre impressora i a propietats
 
 ![image](https://github.com/user-attachments/assets/66c31432-29b7-457f-b1c9-09ab7fe4e89b)
 
-Anem a ús compartit
+- Anem a ús compartit
 
 ![image](https://github.com/user-attachments/assets/5ea53233-54ce-49d1-bbac-f54da89d9b31)
 
-Fem clic a comparteix aquesta impressora
+- Fem clic a comparteix aquesta impressora
 
 ![image](https://github.com/user-attachments/assets/36d7affd-b981-40e4-a713-0d1060637d13)
 
-Anem a Seguretat
+- Anem a Seguretat
 
 ![image](https://github.com/user-attachments/assets/e33c86d3-677f-42b7-b9e0-eba96d338821)
 
-Li donem els permissos que considerem a els usuaris i li donem a Aplicar i Aceptar
+- Li donem els permissos que considerem a els usuaris i li donem a Aplicar i Aceptar
 
 ![image](https://github.com/user-attachments/assets/f93f9061-694e-4c7d-b5cd-ecacfae48266)
 
-Com veure una impresora compartida desde Windows a Linux
+### Com veure una impresora compartida desde Windows a Linux
 
-El unic requeriment per fer aixo es tenir Samba Client, teoricament instalat abans si has sigut el tutorial.
+- El unic requeriment per fer aixo es tenir Samba Client, teoricament instalat abans si has sigut el tutorial.
 
 Al tindre Samba Client, i tenir una impresora compartida desde Windows a una mateixa xarxa, Linux hauria de poder veure l'impresora, sino... Pots provar a buscarla manualment. com a la imatge:
 
@@ -133,7 +133,7 @@ I ahi la tens! Si no et surt pot ser perque no esta compartida correctament o Sa
 
 ![image](https://github.com/user-attachments/assets/42c38f32-2002-4bc5-aeed-bc0ba55d4e12)
 
-**I aqui una prova de que la impressora funciona perfectament**
+### Prova d'impressio desde Linux a impressora de Windows
 
 Aquí li donem la ordre:
 
