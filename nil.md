@@ -71,6 +71,14 @@ Després de canviar les opcions, afeixirem la impresora, en aquest cas, creare u
 
 ![image](https://github.com/user-attachments/assets/a68d19e3-36b1-47cc-9811-995f8f10728b)
 
+Prova d'impressio desde Windows a impressora de Linux
+![image](https://github.com/user-attachments/assets/d4f2e860-819b-4671-9be6-0050c8738da2)
+
+![image](https://github.com/user-attachments/assets/1403f3d3-db57-4c73-ae1c-d8ffd10b5618)
+
+![image](https://github.com/user-attachments/assets/452e0a5a-3e79-4a4c-b540-e89b5749de21)
+
+
 ## Activitat 2 - Compartir una impressora de Windows a Linux
 
 ![image](https://github.com/user-attachments/assets/7a42e8ff-31e5-45ea-aef7-c8185fd57e3b)
