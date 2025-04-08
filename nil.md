@@ -1,3 +1,11 @@
+# Projecte compartició d'impressores
+
+# Índex
+*[Activitat 1 - Compartir una impressora de Linux a Windows](#1)
+*[Activitat 2 - Compartir una impressora de Windows a Linux](#2)
+
+
+<a id ="1"> </a>
 ## Activitat 1 - Compartir una impressora de Linux a Windows
 
 Per a compartir una impresora de Linux a Windows, cal fer lo següent:
@@ -80,6 +88,8 @@ Prova d'impressio desde Windows a impressora de Linux
 
 ![image](https://github.com/user-attachments/assets/452e0a5a-3e79-4a4c-b540-e89b5749de21)
 
+
+<a id ="2"> </a>
 
 ## Activitat 2 - Compartir una impressora de Windows a Linux
 
