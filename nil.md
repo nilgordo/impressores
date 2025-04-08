@@ -1,9 +1,9 @@
 # Projecte compartició d'impressores
 
 # Índex
-*[Activitat 1 - Compartir una impressora de Linux a Windows](#1)
+* [Activitat 1 - Compartir una impressora de Linux a Windows](#1)
 
-*[Activitat 2 - Compartir una impressora de Windows a Linux](#2)
+* [Activitat 2 - Compartir una impressora de Windows a Linux](#2)
 
 
 <a id ="1"> </a>
